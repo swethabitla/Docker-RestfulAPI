@@ -1,0 +1,292 @@
+{  
+   "Clothing":[  
+      {  
+         "id":"1",
+         "address":"224E Greyland",
+         "city":"New York",
+         "brand_name":"GAP",
+         "discount":"20%",
+         "categories":"Hoodies"
+      },
+      {  
+         "id":"2",
+         "address":"40 Railand",
+         "city":"Chicago",
+         "brand_name":"Gucci",
+         "discount":"10%",
+         "categories":"Shoes"
+      },
+      {  
+         "id":"3",
+         "address":"East Corner Road",
+         "city":"Houston",
+         "brand_name":"Calvin Klein",
+         "discount":"30%",
+         "categories":"jackets and Coats"
+      },
+      {  
+         "id":"4",
+         "address":"144 Westfield",
+         "city":"Denver",
+         "brand_name":"Louis Vuitton",
+         "discount":"20%",
+         "categories":"Skirts"
+      },
+      {  
+         "id":"5",
+         "address":"2 Ball room",
+         "city":"Boston",
+         "brand_name":"Chanel",
+         "discount":"50%",
+         "categories":"Boots"
+      },
+      {  
+         "id":"6",
+         "address":"Wall street",
+         "city":"Chicago",
+         "brand_name":"Prada",
+         "discount":"30%",
+         "categories":"Trousers"
+      },
+      {  
+         "id":"7",
+         "address":"26 West Fligroad",
+         "city":"Dallas",
+         "brand_name":"Burberry",
+         "discount":"10%",
+         "categories":"Hoodies"
+      },
+      {  
+         "id":"8",
+         "address":"108 Central Ave",
+         "city":"Las Vegas",
+         "brand_name":"Fendi",
+         "discount":"30%",
+         "categories":"Clutch"
+      },
+      {  
+         "id":"9",
+         "address":"21 Oakland",
+         "city":"Dallas",
+         "brand_name":"Lacoste",
+         "discount":"5%",
+         "categories":"Clutch"
+      },
+      {  
+         "id":"10",
+         "address":"Sthephein House",
+         "city":"Las Vegas",
+         "brand_name":"Balenciaga",
+         "discount":"45%",
+         "categories":"T-shirts"
+      },
+      {  
+         "id":"11",
+         "address":"21 Times Square",
+         "city":"New York",
+         "brand_name":"Timberland",
+         "discount":"75%",
+         "categories":"Shoes"
+      },
+      {  
+         "id":"12",
+         "address":"46 Wall Street",
+         "city":"Dallas",
+         "brand_name":"H&M",
+         "discount":"50%",
+         "categories":"Dresses"
+      },
+      {  
+         "id":"13",
+         "address":"1224W Midland",
+         "city":"Las Vegas",
+         "brand_name":"Forever 21",
+         "discount":"60%",
+         "categories":"Dresses"
+      },
+      {  
+         "id":"14",
+         "address":"204 Corber lane",
+         "city":"Dallas",
+         "brand_name":"Versace",
+         "discount":"20%",
+         "categories":"Clutch"
+      },
+      {  
+         "id":"15",
+         "address":"1142 Park Road",
+         "city":"Las Vegas",
+         "brand_name":"Champion",
+         "discount":"45%",
+         "categories":"Hoodies"
+      },
+      {  
+         "id":"16",
+         "address":"Central West Field",
+         "city":"Chicago",
+         "brand_name":"Tommy Hilfiger",
+         "discount":"10%",
+         "categories":"Suits"
+      },
+      {  
+         "id":"17",
+         "address":"1A2 Central Ave",
+         "city":"Cincinnati",
+         "brand_name":"Levis",
+         "discount":"60%",
+         "categories":"Shoes"
+      },
+      {  
+         "id":"18",
+         "address":"Laneroad 24",
+         "city":"Cincinnati",
+         "brand_name":"Holister",
+         "discount":"20%",
+         "categories":"Hoodies"
+      },
+      {  
+         "id":"19",
+         "address":"89 Alex Ave",
+         "city":"New Orleans",
+         "brand_name":"Everlast",
+         "discount":"25%",
+         "categories":"Coats"
+      },
+      {  
+         "id":"20",
+         "address":"Unit 4 JSK",
+         "city":"Cincinnati",
+         "brand_name":"Under Armour",
+         "discount":"30%",
+         "categories":"Coats"
+      },
+      {  
+         "id":"21",
+         "address":"36 Queens",
+         "city":"New York",
+         "brand_name":"The North Face",
+         "discount":"45%",
+         "categories":"Coats"
+      },
+      {  
+         "id":"22",
+         "address":"1 Walgress Road",
+         "city":"New Orleans",
+         "brand_name":"Aeropostale",
+         "discount":"60%",
+         "categories":"Hoodies"
+      },
+      {  
+         "id":"23",
+         "address":"146 Aldeph Ave",
+         "city":"Houston",
+         "brand_name":"Roar",
+         "discount":"5%",
+         "categories":"Shirts"
+      },
+      {  
+         "id":"24",
+         "address":"Fine Avenue Road",
+         "city":"Chicago",
+         "brand_name":"Express",
+         "discount":"10%",
+         "categories":"Suits"
+      },
+      {  
+         "id":"25",
+         "address":"86 Cornerer Lane",
+         "city":"Denver",
+         "brand_name":"Urban Outfitters",
+         "discount":"5%",
+         "categories":"T-Shirts"
+      },
+      {  
+         "id":"26",
+         "address":"4 Bolavard Road",
+         "city":"Boston",
+         "brand_name":"True Religion",
+         "discount":"20%",
+         "categories":"Suits"
+      },
+      {  
+         "id":"27",
+         "address":"2 Shine Street",
+         "city":"New Orleans",
+         "brand_name":"American Eagle Outfitters",
+         "discount":"10%",
+         "categories":"Suits"
+      },
+      {  
+         "id":"28",
+         "address":"2788 Gress Street",
+         "city":"Boston",
+         "brand_name":"American Apparel",
+         "discount":"20%",
+         "categories":"T-Shirts"
+      },
+      {  
+         "id":"29",
+         "address":"286 Station Road",
+         "city":"Cincinnati",
+         "brand_name":"Abercrombie & Fitch",
+         "discount":"25%",
+         "categories":"Shirts"
+      },
+      {  
+         "id":"30",
+         "address":"123 West Coventry Road",
+         "city":"Birmingham",
+         "brand_name":"Miss Me",
+         "discount":"10%",
+         "categories":"Hoodies"
+      },
+      {  
+         "id":"31",
+         "address":"125 West Roar lane",
+         "city":"New York",
+         "brand_name":"Williamrast",
+         "discount":"75%",
+         "categories":"Coats"
+      },
+      {  
+         "id":"32",
+         "address":"2245 Wilson Road",
+         "city":"Denver",
+         "brand_name":"Rock & Republic",
+         "discount":"20%",
+         "categories":"Hoodies"
+      },
+      {  
+         "id":"33",
+         "address":"East Central Road",
+         "city":"Boston",
+         "brand_name":"Nine West",
+         "discount":"75%",
+         "categories":"T-Shirts"
+      },
+      {  
+         "id":"34",
+         "address":"12E0 Westfield Road",
+         "city":"Chicago",
+         "brand_name":"Arrow",
+         "discount":"20%",
+         "categories":"Suits"
+      },
+      {  
+         "id":"35",
+         "address":"26 Wallgress Street",
+         "city":"Denver",
+         "brand_name":"Jack Jones",
+         "discount":"30%",
+         "categories":"Shirts"
+      },
+      {  
+         "id":"36",
+         "address":"136 East Central Avenue",
+         "city":"Houston",
+         "brand_name":"Ralph Lauren",
+         "discount":"25%",
+         "categories":"Shoes"
+      }
+   ]
+}
